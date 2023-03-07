@@ -1,0 +1,15 @@
+.tabItem {
+  margin-right: 10px;
+}
+
+.tab-button {
+  background-color: transparent;
+  border: 0px;
+  outline: none;
+  color: white;
+  font-size: 20px;
+  font-weight: bold;
+}
+.active-tab {
+  color: grey;
+}
